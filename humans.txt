@@ -1,0 +1,9 @@
+/* TEAM */
+	Developer: Matt Manning
+	Contact: matt  mjman.net
+	From: London to Melbourne
+
+/* SITE */
+	Language: English
+	Built with: JavaScript / HTML / CSS
+	Standards: HTML5, CSS3
